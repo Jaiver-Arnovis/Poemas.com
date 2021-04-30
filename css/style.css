@@ -1,9 +1,5 @@
 body {
-	background-image: url("/Poemas.com/img/fondo-a.jpg");
-	background-repeat: no-repeat;
-	background-size: contain;
-	width: 1440px;
-	height: 99%;
+	
 }
 
 
@@ -50,6 +46,9 @@ img {
 #page > main {
   grid-area: main;
   background-color: #325413;
+  background-image: url("/Poemas.com/img/fondo-a.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 #page > footer {
