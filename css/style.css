@@ -39,7 +39,7 @@ font-size: 20px;
 
 #page {
   display: grid;
-  width: 1280px;
+  width: 1440px;
   height: 99%;
   grid-template-areas: "head head head"
                        "nav  main main"
