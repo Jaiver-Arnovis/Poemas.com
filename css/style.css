@@ -38,6 +38,27 @@ h2 {
 font-size: 20px;
 }
 
+#comentarios{
+	float: left;
+ 	padding: 6px;
+  	margin-top: 5px;
+ 	margin-right: 5px;
+
+}
+#textoarea{
+	border-radius: 8px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	width: 480px;
+	height: 40%;
+	float: center;
+ 	padding: 6px;
+  	margin-top: 8px;
+ 	margin-right: 16px;
+}
+
+
+
 #page {
   display: grid;
   width: 1440px;
