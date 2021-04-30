@@ -21,6 +21,17 @@ img {
 	display:block;
 	margin:auto;
 }
+#buscador {
+	text-align: justify;
+	font-size: 25px;
+}
+h1 {
+font-size: 30px;
+}
+
+h2 {
+font-size: 20px;
+}
 
 #page {
   display: grid;
