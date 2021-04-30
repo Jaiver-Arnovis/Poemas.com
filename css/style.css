@@ -19,6 +19,10 @@ img {
 	width: 480px;
 	height: 40%;
 }
+#gif {
+	width: 15px;
+  	height: 15px;
+}
 
 #page {
   display: grid;
