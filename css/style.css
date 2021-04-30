@@ -48,7 +48,7 @@ img {
 #page > main {
   grid-area: main;
   background-color: #325413;
-  background-image: url("/Poemas.com/img/fondo-a.jpg");
+  background-image: url("/Poemas.com/img/fondo-a.jpgnf");
   background-repeat: no-repeat;
   background-size: contain;
 }
