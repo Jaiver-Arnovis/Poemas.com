@@ -16,11 +16,10 @@ img {
 	height: 40%;
 }
 #gif {
-	width: 45px;
-  	height: 45px;
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
+	width: 130px;
+  	height: 130px;
+	display:block;
+	margin:auto;
 }
 
 #page {
