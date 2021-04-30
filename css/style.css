@@ -33,20 +33,20 @@ img {
 
 #page > header {
   grid-area: head;
-  background-color: #8ca0ff;
+  background-color: #86E031;
 }
 
 #page > nav {
   grid-area: nav;
-  background-color: #ffa08c;
+  background-color: #7DD12E;
 }
 
 #page > main {
   grid-area: main;
-  background-color: #ffff64;
+  background-color: #325413;
 }
 
 #page > footer {
   grid-area: foot;
-  background-color: #8cffa0;
+  background-color: #3A6115;
 }
