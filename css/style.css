@@ -24,6 +24,7 @@ img {
   	height: 120px;
 	display:block;
 	margin:auto;
+	transform: scaleX(-1);
 }
 #buscador {
 	text-align: justify;
@@ -97,12 +98,12 @@ font-size: 20px;
 }
 
 .topnav a:hover {
-  background-color: #038C3E;
+  background-color: #C8FA00;
   color: #000000;
 }
 
 .topnav a.active {
-  background-color: #038C3E;
+  background-color: #C8FA00;
   color: #000000;
 }
 
