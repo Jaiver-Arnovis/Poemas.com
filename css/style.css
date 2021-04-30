@@ -106,7 +106,7 @@ font-size: 20px;
 }
 
 .topnav a.active {
-  background-color: #2196F3;
+  background-color: #038C3E;
   color: white;
 }
 
@@ -124,9 +124,6 @@ font-size: 20px;
     padding: 14px;
   }
   
-  .topnav input[type=text] {
-    border: 1px solid #ccc;  
-  }
 }
 
 
