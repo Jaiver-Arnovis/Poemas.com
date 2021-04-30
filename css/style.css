@@ -20,8 +20,8 @@ img {
  	margin-right: 16px;
 }
 #gif {
-	width: 120px;
-  	height: 120px;
+	width: 130px;
+  	height: 130px;
 	display:block;
 	margin:auto;
 	transform: scaleX(-1);
@@ -98,12 +98,12 @@ font-size: 20px;
 }
 
 .topnav a:hover {
-  background-color: #86E031;
+  background-color: #C8FA00;
   color: #000000;
 }
 
 .topnav a.active {
-  background-color: #C8FA00;
+  background-color: #86E031;
   color: #000000;
 }
 
