@@ -38,11 +38,11 @@ font-size: 20px;
   display: grid;
   width: 1280px;
   height: 99%;
-  grid-template-areas: "head head"
-                       "nav  main"
-	  	       "nav  main"
-	               "nav  main"
-	               "nav  foot";
+  grid-template-areas: "head head head"
+                       "nav  main main"
+	  	       "nav  main main"
+	               "nav  main main"
+	               "nav  foot foot";
   grid-template-rows: 50px 1fr 30px;
   grid-template-columns: 150px 1fr;
 }
